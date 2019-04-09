@@ -9,5 +9,6 @@ Required experience: C and C++
 Bonus experience: Knowledge of ns-3 DCE and iperf
 Difficulty: Low to Moderate
 Recommended Reading:
-● ns-3 DCE github repository (Link: https://github.com/direct-code-execution/ns-3-dce)
-● DCE Manual (Link: https://www.nsnam.org/docs/dce/manual/html/getting-started.html)
+
+# ns-3 DCE github repository (Link: https://github.com/direct-code-execution/ns-3-dce)
+# DCE Manual (Link: https://www.nsnam.org/docs/dce/manual/html/getting-started.html)
