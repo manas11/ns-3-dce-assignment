@@ -1,4 +1,4 @@
-# ns-3 assignments
+# ns-3-dce assignments
 --------------------------
 ## Data Communication Course Assignment 
 ### SIM-01: Install ns-3 Direct Code Execution (DCE) and run the iperf example
