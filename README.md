@@ -12,6 +12,7 @@
 * IP address of the server: 10.1.2.1
 
 ### topology visualization:
+<pre>
 - client 1    -------
 - client 2    -------
 -    .                  router 1 ------------------------   router 2-----------   server 1 
@@ -19,7 +20,7 @@
 -    . 
 -    .        -------           
 - client n    -------
-
+</pre>
 
 #### Recommended Reading:
 * ns-3 DCE github repository (Link: https://github.com/direct-code-execution/ns-3-dce)
