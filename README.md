@@ -11,7 +11,7 @@
 * IP addresses of the clients: starting from 10.1.1.1, subnet mask is set by default as 255.255.255.240
 * IP address of the server: 10.1.2.1
 
-### topology visualization:
+### Topology Visualization:
 <pre>
 - client 1    -------
 - client 2    -------
@@ -21,7 +21,9 @@
 -    .        -------           
 - client n    -------
 </pre>
+##### The file final.cc contains the code for this topology
 
-#### Recommended Reading:
+#### Useful Links:
 * ns-3 DCE github repository (Link: https://github.com/direct-code-execution/ns-3-dce)
 * DCE Manual (Link: https://www.nsnam.org/docs/dce/manual/html/getting-started.html)
+* iperf Website (Link: https://iperf.fr/)
