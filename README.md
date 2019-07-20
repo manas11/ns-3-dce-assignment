@@ -1,17 +1,18 @@
-# ns-3-dce assignments
+# ns-3-dce assignment
 --------------------------
 ## Data Communication Course Assignment 
-* Brief: ns-3 Direct Code Execution (DCE) is a different tool than native ns-3 and allows the user to run Linux libraries inside the ns-3 environment. In this task, the main goal is to install ns-3 DCE and successfully run the iperf example.
+* Brief: ns-3 Direct Code Execution (DCE) is a different tool than native ns-3 and allows the user to run Linux libraries inside the ns-3 environment. In this task, the main goal is to install ns-3 DCE, run the iperf example and modify it.
 
-### dce-iperf 
-implemented using point to point dumbbell helper
-there are n clients and 2 routers in between and 1 server(Dumbell Topology) 
-the clients are connected to one router and the server to other
-routers : ip addresses are 10.1.0.1 and 10.1.0.2
-left nodes: clients: ip addreses are starting from 10.1.1.1 and so on according to the number of clients
-                     as the subnet mask by default is 255.255.255.240 so the ip will be in interval of 16
-right nodes: server: ip address is 10.1.2.1
-topology is: 
+### Working
+* There will be n clients, 2 routers in between and 1 server 
+* This topology will be implemented using point to point dumbbell helper
+* The clients are connected to one of the router and server to the other router
+* IP addresses of the routers are 10.1.0.1 and 10.1.0.2
+* IP addresses of the clients: starting from 10.1.1.1, subnet mask is set by default as 255.255.255.240
+* IP address of the server: 10.1.2.1
+
+### topology visualization:
+
 client 1    -------
 client 2    -------
   .                    router 1 ------------------------   router 2-----------   server 1 
