@@ -1,7 +1,10 @@
-# ns-3-dce assignment
---------------------------
-## Data Communication Course Assignment 
-* Brief: ns-3 Direct Code Execution (DCE) is a different tool than native ns-3 and allows the user to run Linux libraries inside the ns-3 environment. In this task, the main goal is to install ns-3 DCE, run the iperf example and modify it.
+# Dumbbell Topology using Direct Code Execution in ns-3
+- This repository contains the C++ program for creating a dumbbell topology in ns-3 DCE(Direct Code Execution)
+- Performance of the topology was tested using [**iperf tool**](https://iperf.fr/)
+- This assignment was done under the Data Communication course of fourth semester
+
+## Direct Code Execution
+ns-3 Direct Code Execution (DCE) is a different tool than native ns-3 and allows the user to run Linux libraries inside the ns-3 environment.
 
 ### Working
 * There will be n clients, 2 routers in between and 1 server 
