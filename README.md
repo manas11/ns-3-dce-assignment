@@ -33,6 +33,5 @@ ns-3 Direct Code Execution (DCE) is a different tool than native ns-3 and allows
 
 ## Useful Links and References:
 - ns-3 DCE GitHub Repository[Link](https://github.com/direct-code-execution/ns-3-dce)
-- ns-3 DCE Manual [Link](https://www.nsnam.org/docs/dce/manual/html/getting-started.html)
+- ns-3 Quick Start Guide [Link](https://www.nsnam.org/docs/dce/manual/html/getting-started.html)
 - Iperf Network Bandwidth Measurement Tool [Link](https://iperf.fr/)
-
